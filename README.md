@@ -1,3 +1,4 @@
+![cover](https://github.com/SachaQuiniou/SachaQuiniou/blob/main/img/cover.png)
 # 👋 Hi, I’m Sacha 
 
 ## I'm a Full-Stack developer
