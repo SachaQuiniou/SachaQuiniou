@@ -1,7 +1,7 @@
 ![cover](https://github.com/SachaQuiniou/SachaQuiniou/blob/main/img/cover.png)
 # 👋 Hi, I’m Sacha 
 
-## I'm a Full-Stack developer
+**_I'm a Full-Stack developer_**
 
 ### About Me
 I'm 30 years old. I live in Essonne, France . I decided to move into web development after 8 years in sales. I chose the O'clock school to learn how to become a good developer 😁
